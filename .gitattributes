@@ -1,0 +1,4 @@
+# Jaga file data tetap identik byte-per-byte (tanpa konversi akhir baris)
+*.csv   -text
+*.gz    binary
+*.ipynb -text

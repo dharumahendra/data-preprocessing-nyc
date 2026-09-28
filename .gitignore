@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data mentah versi tidak terkompresi (versi .csv.gz yang dipakai repo)
+street_pothole_work_orders.csv
+
+# Hasil yang dibuat ulang oleh notebook
+output/
+figures/
+
+# Dokumen kerja / laporan (tidak diperlukan untuk menjalankan notebook)
+*.md
+laporan/
+
+# Berkas sistem
+.ipynb_checkpoints/
+Thumbs.db
+desktop.ini
