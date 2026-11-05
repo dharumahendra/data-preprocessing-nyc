@@ -12,6 +12,7 @@ figures/
 
 # Dokumen kerja / laporan (tidak diperlukan untuk menjalankan notebook)
 *.md
+!README.md
 laporan/
 
 # Berkas sistem
